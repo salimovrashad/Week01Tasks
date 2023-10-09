@@ -6,39 +6,39 @@
         {
             //Task 1
             //Ədədin sadə və ya mürəkkəb olduğunu tapan alqoritm yazın.
-            //Console.WriteLine("Ededi daxil edin.");
-            //int eded = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Input the number.");
+            //int number = Convert.ToInt32(Console.ReadLine());
 
-            //if (eded < 2)
+            //if (number < 2)
             //{
-            //    Console.WriteLine("Eded ne sadedir ne murekkeb.");
+            //    Console.WriteLine("Number not simple and complex.");
             //}
             //else
             //{
-            //    bool isSade = true;
-            //    for (int i = 2; i <= eded; i+=2)
+            //    bool isSimple = true;
+            //    for (int i = 2; i <= number; i+=2)
             //    {
-            //        if (eded % i == 0)
+            //        if (number % i == 0)
             //        {
-            //            isSade = false;
+            //            isSimple = false;
             //            break;
             //        }
             //    }
 
-            //    if (isSade)
+            //    if (isSimple)
             //    {
-            //        Console.WriteLine("Eded sadedir.");
+            //        Console.WriteLine("Number is simple.");
             //    }
             //    else
             //    {
-            //        Console.WriteLine("Eded murekkebdir.");
+            //        Console.WriteLine("Number is complex.");
             //    }
             //}
 
 
             //Task 2
             //Daxil olunan ədədin 2nin qüvvəti olub olmadığını tapan alqoritm yazın.
-            //Console.WriteLine("Eded daxil edin...");
+            //Console.WriteLine("İnput the number...");
             //int numberOne = Convert.ToInt32(Console.ReadLine());
             //int equal = 2;
 
@@ -64,17 +64,17 @@
 
             //Task 3
             //Ədədin mərtəbələri sayını tapan alqoritm yazın.
-            //Console.Write("Bir ədəd daxil edin: ");
-            //int eded = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("İnput the number: ");
+            //int number = Convert.ToInt32(Console.ReadLine());
 
-            //int mertebelerinSayi = 0;
+            //int floorNumber = 0;
 
-            //while (eded != 0)
+            //while (number != 0)
             //{
-            //    eded /= 10;
-            //    mertebelerinSayi++;
+            //    number /= 10;
+            //    floorNumber++;
             //}
-            //Console.WriteLine(mertebelerinSayi);
+            //Console.WriteLine(floorNumber);
 
         }
     }
