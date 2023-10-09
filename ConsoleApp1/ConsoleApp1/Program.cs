@@ -6,7 +6,8 @@
         {
             //Task 1
             //Ədədin sadə və ya mürəkkəb olduğunu tapan alqoritm yazın.
-            //int eded = 13;
+            //Console.WriteLine("Ededi daxil edin.");
+            //int eded = Convert.ToInt32(Console.ReadLine());
 
             //if (eded < 2)
             //{
